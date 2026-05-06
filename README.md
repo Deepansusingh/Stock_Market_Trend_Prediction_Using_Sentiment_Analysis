@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 ## Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/stock-market-trend-prediction.git
+git clone https://github.com/Deepansusingh/stock_market_trend_prediction.git
 cd stock-market-trend-prediction
 Install the required dependencies. You can use pip to install them:
 Copy code
@@ -51,12 +51,6 @@ Create a new branch for your contribution.
 Make your changes and commit them.
 Push your changes to your fork.
 Submit a pull request, explaining the changes you have made.
-
-## Demo Video
-
-Check out the demo video of the Stock Market Trend Prediction project on YouTube:
-
-[![Demo Video](https://img.youtube.com/vi/9B5hw6uule0/0.jpg)](https://youtu.be/9B5hw6uule0)
 
 ## License
 This project is licensed under the MIT License.
